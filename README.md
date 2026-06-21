@@ -1,16 +1,23 @@
-## Hi there 👋
+# สวัสดีประชาชน! Hi everyone! 👋
 
-<!--
-**Jeeraphat-kho/jeeraphat-kho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeeraphat Khontong (Kla) born on March 2, 2008.
 
-Here are some ideas to get you started:
+🎓 Computer Science (45) student at Chiang Mai University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Education
+- Bachelor of Science in Computer Science
+Chiang Mai University
+2026 – Present
+
+- High School Diploma Phraowittayakom School
+2020 – 2025
+
+## Goals
+- Improve programming skills
+- Become a good teacher in the future
+
+## Contact
+- Facebook : [Kla Jeeraphat Khontong](https://www.facebook.com/jeeraphxt51)
+- Instagram : [jeeraphxt51.gg](https://www.instagram.com/jeeraphxt51.gg/)
+- E-mail : jeeraphat-kho@gmail.com
